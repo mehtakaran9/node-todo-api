@@ -19,7 +19,7 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp',(err, db) => {
   // })
 
   // db.collection('Users').insertOne({
-  //   name: "Karan Mehta",
+  //   name: "  Karan Mehta",
   //   age: 20,
   //   location: "Tamil Nadu"
   // }, (err, result) => {
